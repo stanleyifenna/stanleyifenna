@@ -7,7 +7,7 @@
 -  **Languages :** JavaScript, React, Next js, Mongodb, Node js
 -  **Hobbies :** Travelling & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** DeemPay
+-  **Organization :** DeemPay Technology Limited
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
