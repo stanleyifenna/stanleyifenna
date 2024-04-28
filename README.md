@@ -4,7 +4,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** JavaScript, React js, Next js, HTML, CSS, Saas, Styled component, Tailwind css, Node js, MongoDB, TypeScript
+-  **Languages :** JavaScript, React js, Next js, HTML, CSS, Saas, Styled component, Tailwind css, Node js, MongoDB, TypeScript, Express
 -  **Hobbies :** Travelling & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** DeemPay Technology Limited
